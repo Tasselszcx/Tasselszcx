@@ -6,7 +6,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -31,8 +31,6 @@
 ## 📊 GitHub Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tasselszcx&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tasselszcx&theme=dracula)
 
 </td>
 </tr>
