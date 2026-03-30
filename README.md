@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tasselszcx&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tasselszcx&theme=dracula)
 
 </td>
 </tr>
