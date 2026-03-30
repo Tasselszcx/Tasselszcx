@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Tasselszcx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tasselszcx&theme=github_dark)
 
 </td>
 </tr>
