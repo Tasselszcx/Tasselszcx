@@ -6,10 +6,6 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ## 🎓 Education
 
 - **MSc @ Imperial College London** (2025)
@@ -24,17 +20,6 @@
 
 - **Email:** [cz3625@ic.ac.uk](mailto:cz3625@ic.ac.uk)
 - **小红书:** [Tasselszcx](https://www.xiaohongshu.com/user/profile/66eaf504000000001d030537)
-
-</td>
-<td width="50%" valign="top">
-
-## 📊 GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tasselszcx&theme=dracula)
-
-</td>
-</tr>
-</table>
 
 ---
 
