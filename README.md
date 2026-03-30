@@ -6,6 +6,10 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ## 🎓 Education
 
 - **MSc @ Imperial College London** (2025)
@@ -21,7 +25,8 @@
 - **Email:** [cz3625@ic.ac.uk](mailto:cz3625@ic.ac.uk)
 - **小红书:** [Tasselszcx](https://www.xiaohongshu.com/user/profile/66eaf504000000001d030537)
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🚀 Featured Project
 
@@ -31,6 +36,10 @@
 ⭐ 32.2k stars | 🐍 Python | 🤖 AI Agent Tutorial
 
 一个从零开始的智能体原理与实践教程，帮助开发者理解和构建 AI Agent 系统
+
+</td>
+</tr>
+</table>
 
 ---
 
