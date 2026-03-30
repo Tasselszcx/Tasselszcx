@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="images/gaomu1.jpg" alt="Profile" width="150" style="border-radius: 50%;"/>
+  <img src="images/gaomu1.jpg" alt="Profile" width="195" style="border-radius: 50%;"/>
 
   # Hi, I'm Tasselszcx 👋
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🎓 Education
 
@@ -20,6 +24,19 @@
 
 - **Email:** [cz3625@ic.ac.uk](mailto:cz3625@ic.ac.uk)
 - **小红书:** [Tasselszcx](https://www.xiaohongshu.com/user/profile/66eaf504000000001d030537)
+
+</td>
+<td width="50%" valign="top">
+
+## 📊 GitHub Statistics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tasselszcx&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tasselszcx&theme=github_dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
