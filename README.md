@@ -19,6 +19,7 @@
 
 - 🤖 **Agent Intern @ Momenta**
 - 🧠 **Agent Intern @ PKU OpenDCAI**
+- 💼 **LLM Algorithm Intern @ Siemens**
 
 ## 📫 Contact Me
 
