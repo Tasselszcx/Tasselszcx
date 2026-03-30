@@ -32,6 +32,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tasselszcx&theme=dracula)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tasselszcx&theme=dracula)
+
 </td>
 </tr>
 </table>
