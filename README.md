@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/gaomu1.jpg" alt="Profile" width="195" style="border-radius: 50%;"/>
 
-  # Hi, I'm Tasselszcx 👋
+  # Hi, I'm Chenxu 👋
 </div>
 
 ---
