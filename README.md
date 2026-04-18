@@ -17,6 +17,7 @@
 
 ## 💼 Experience
 
+- 🤖 **Agent&Infra Intern @ Meituan Longcat**
 - 🤖 **Agent Intern @ Momenta**
 - 🧠 **Agent Intern @ PKU OpenDCAI**
 - 💼 **LLM Algorithm Intern @ Siemens**
